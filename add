@@ -1,0 +1,187 @@
+<li>
+<a href=employee_form.php class=nav-top-item>
+employee
+</a>
+<ul>
+<li><a href=employee_form.php>Insert</a></li>
+<li><a href=employee_view.php>View</a></li>
+<li><a href=employee_delete.php>Delete Entry</a></li>
+<li><a href=employee_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=payroll_form.php class=nav-top-item>
+payroll
+</a>
+<ul>
+<li><a href=payroll_form.php>Insert</a></li>
+<li><a href=payroll_view.php>View</a></li>
+<li><a href=payroll_delete.php>Delete Entry</a></li>
+<li><a href=payroll_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=dependents_form.php class=nav-top-item>
+dependents
+</a>
+<ul>
+<li><a href=dependents_form.php>Insert</a></li>
+<li><a href=dependents_view.php>View</a></li>
+<li><a href=dependents_delete.php>Delete Entry</a></li>
+<li><a href=dependents_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=department_form.php class=nav-top-item>
+department
+</a>
+<ul>
+<li><a href=department_form.php>Insert</a></li>
+<li><a href=department_view.php>View</a></li>
+<li><a href=department_delete.php>Delete Entry</a></li>
+<li><a href=department_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=BalanceSheet_form.php class=nav-top-item>
+BalanceSheet
+</a>
+<ul>
+<li><a href=BalanceSheet_form.php>Insert</a></li>
+<li><a href=BalanceSheet_view.php>View</a></li>
+<li><a href=BalanceSheet_delete.php>Delete Entry</a></li>
+<li><a href=BalanceSheet_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=Advertisements_form.php class=nav-top-item>
+Advertisements
+</a>
+<ul>
+<li><a href=Advertisements_form.php>Insert</a></li>
+<li><a href=Advertisements_view.php>View</a></li>
+<li><a href=Advertisements_delete.php>Delete Entry</a></li>
+<li><a href=Advertisements_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=adclients_form.php class=nav-top-item>
+adclients
+</a>
+<ul>
+<li><a href=adclients_form.php>Insert</a></li>
+<li><a href=adclients_view.php>View</a></li>
+<li><a href=adclients_delete.php>Delete Entry</a></li>
+<li><a href=adclients_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=newssection_form.php class=nav-top-item>
+newssection
+</a>
+<ul>
+<li><a href=newssection_form.php>Insert</a></li>
+<li><a href=newssection_view.php>View</a></li>
+<li><a href=newssection_delete.php>Delete Entry</a></li>
+<li><a href=newssection_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=reporter_form.php class=nav-top-item>
+reporter
+</a>
+<ul>
+<li><a href=reporter_form.php>Insert</a></li>
+<li><a href=reporter_view.php>View</a></li>
+<li><a href=reporter_delete.php>Delete Entry</a></li>
+<li><a href=reporter_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=photographer_form.php class=nav-top-item>
+photographer
+</a>
+<ul>
+<li><a href=photographer_form.php>Insert</a></li>
+<li><a href=photographer_view.php>View</a></li>
+<li><a href=photographer_delete.php>Delete Entry</a></li>
+<li><a href=photographer_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=clicksfor_form.php class=nav-top-item>
+clicksfor
+</a>
+<ul>
+<li><a href=clicksfor_form.php>Insert</a></li>
+<li><a href=clicksfor_view.php>View</a></li>
+<li><a href=clicksfor_delete.php>Delete Entry</a></li>
+<li><a href=clicksfor_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=nfvarticles_form.php class=nav-top-item>
+nfvarticles
+</a>
+<ul>
+<li><a href=nfvarticles_form.php>Insert</a></li>
+<li><a href=nfvarticles_view.php>View</a></li>
+<li><a href=nfvarticles_delete.php>Delete Entry</a></li>
+<li><a href=nfvarticles_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=newsfeedvendor_form.php class=nav-top-item>
+newsfeedvendor
+</a>
+<ul>
+<li><a href=newsfeedvendor_form.php>Insert</a></li>
+<li><a href=newsfeedvendor_view.php>View</a></li>
+<li><a href=newsfeedvendor_delete.php>Delete Entry</a></li>
+<li><a href=newsfeedvendor_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=circulationarea_form.php class=nav-top-item>
+circulationarea
+</a>
+<ul>
+<li><a href=circulationarea_form.php>Insert</a></li>
+<li><a href=circulationarea_view.php>View</a></li>
+<li><a href=circulationarea_delete.php>Delete Entry</a></li>
+<li><a href=circulationarea_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=localdistributer_form.php class=nav-top-item>
+localdistributer
+</a>
+<ul>
+<li><a href=localdistributer_form.php>Insert</a></li>
+<li><a href=localdistributer_view.php>View</a></li>
+<li><a href=localdistributer_delete.php>Delete Entry</a></li>
+<li><a href=localdistributer_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=papervendor_form.php class=nav-top-item>
+papervendor
+</a>
+<ul>
+<li><a href=papervendor_form.php>Insert</a></li>
+<li><a href=papervendor_view.php>View</a></li>
+<li><a href=papervendor_delete.php>Delete Entry</a></li>
+<li><a href=papervendor_modify.php>Modify Entry</a></li>
+</ul>
+</li>
+<li>
+<a href=daytodaygoods_form.php class=nav-top-item>
+daytodaygoods
+</a>
+<ul>
+<li><a href=daytodaygoods_form.php>Insert</a></li>
+<li><a href=daytodaygoods_view.php>View</a></li>
+<li><a href=daytodaygoods_delete.php>Delete Entry</a></li>
+<li><a href=daytodaygoods_modify.php>Modify Entry</a></li>
+</ul>
+</li>
